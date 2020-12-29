@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutNotes</string>
+    <string name="add_word" />
+    <string name="hint_word">Note...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="text_delete">You can tap on the note, for delete.</string>
+</resources>
